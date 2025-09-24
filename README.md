@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Kushu Shukla 👋  
+## About Me
+I am from Prayagraj, Uttar Pradesh. I enjoy coding, learning new technologies, and building projects.
 
-<!--
-**Kushu-Shukla/Kushu-Shukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 **B.Tech 4th Year Student (CSE - AIML)**  
+💡 Passionate about **Artificial Intelligence, Machine Learning, and Web Development**  
+🚀 Love building **scalable solutions** with Python, Django, and real-time applications  
+🌱 Currently learning ** DSA, and ML algorithms**  
+🤝 Open to **collaborations** on AI, ML, and Web projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack  
+- **Languages**: Python, Java, C++ ,Javascript 
+- **Frameworks**: Django, Flask  ,scikit-Learn
+- **Machine Learning**: TensorFlow, Scikit-learn, Pandas, NumPy  
+- **Cloud**: Google Cloud  
+- **Databases**: MySQL, Firebase, MongoDB
+- **Others**: Git, GitHub, REST APIs  
