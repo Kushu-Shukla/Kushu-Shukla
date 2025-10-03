@@ -1,6 +1,6 @@
 # Hi there, I'm Kushu Shukla 👋  
 ## About Me
-I am from Prayagraj, Uttar Pradesh. I enjoy coding, learning new technologies, and building projects.
+I enjoy coding, learning new technologies, and building projects.
 
 
 🎓 **B.Tech 4th Year Student (CSE - AIML)**  
