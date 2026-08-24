@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Kushu%20Shukla&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Machine%20Learning%20Engineer%20|%20AI%20Enthusiast&descAlignY=55&descAlign=62" />
+  <img src="assets/ai_banner.jpg" width="100%" alt="AI Banner" />
 </div>
 
 <h1 align="center">Hi there, I'm Kushu Shukla 👋</h1>
@@ -26,13 +26,23 @@
 
 ### 👩🏻‍💻 About Me
 
-I am a **B.Tech 4th Year Student (CSE - AIML)** who enjoys coding, exploring new technologies, and building intelligent projects.
-
-- 🔭 Working with **Deep Learning, NLP, and Computer Vision**.
-- 🚀 Building scalable solutions with **Python, Django, and real-time applications**.
-- 🌱 Currently learning and mastering **DSA and Advanced ML Algorithms**.
-- 🤝 Open to collaborations on **AI, ML, and Web projects**.
-- ⚡ Fun Fact: I'm always eager to dive into complex datasets and turn them into actionable insights!
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      I am a <strong>B.Tech 4th Year Student (CSE - AIML)</strong> who enjoys coding, exploring new technologies, and building intelligent projects.<br><br>
+      <ul>
+        <li>🔭 Working with <strong>Deep Learning, NLP, and Computer Vision</strong>.</li>
+        <li>🚀 Building scalable solutions with <strong>Python, Django, and real-time applications</strong>.</li>
+        <li>🌱 Currently learning and mastering <strong>DSA and Advanced ML Algorithms</strong>.</li>
+        <li>🤝 Open to collaborations on <strong>AI, ML, and Web projects</strong>.</li>
+        <li>⚡ Fun Fact: I'm always eager to dive into complex datasets and turn them into actionable insights!</li>
+      </ul>
+    </td>
+    <td valign="top" width="40%" align="center">
+      <img src="assets/ai_robot.jpg" width="250" alt="AI Robot" />
+    </td>
+  </tr>
+</table>
 
 ---
 
