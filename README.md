@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="assets/ai_banner.jpg" width="100%" alt="AI Banner" />
+  <img src="assets/girly_ai_banner.jpg" width="100%" alt="AI Banner" />
 </div>
 
-<h1 align="center">Hi there, I'm Kushu Shukla 👋</h1>
+<h1 align="center">Hi there, I'm Kushu Shukla 🌸✨</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kushu-Shukla&amp;label=Profile%20Views&amp;color=BD93F9&amp;style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Kushu-Shukla&amp;label=Profile%20Views&amp;color=FF69B4&amp;style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;pause=1000&amp;color=BD93F9&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Machine+Learning+Engineer;Deep+Learning+%26+NLP;Computer+Vision+Enthusiast;Building+Scalable+AI+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;pause=1000&amp;color=FF69B4&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Machine+Learning+Engineer+💖;Deep+Learning+%26+NLP+✨;Computer+Vision+Enthusiast+🎀;Building+Scalable+AI+Solutions+🌸" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,22 +28,22 @@
 
 ---
 
-### 👩🏻‍💻 About Me
+### 💖 About Me
 
 <table>
   <tr>
     <td valign="top" width="60%">
-      I am a <strong>B.Tech 4th Year Student (CSE - AIML)</strong> who enjoys coding, exploring new technologies, and building intelligent projects.<br><br>
+      I am a <strong>B.Tech Graduate (CSE - AIML) 👩🏻‍🎓</strong> who loves coding, exploring new technologies, and building intelligent projects with a touch of magic.<br><br>
       <ul>
-        <li>🔭 Working with <strong>Deep Learning, NLP, and Computer Vision</strong>.</li>
-        <li>🚀 Building scalable solutions with <strong>Python, Django, and real-time applications</strong>.</li>
-        <li>🌱 Currently learning and mastering <strong>DSA and Advanced ML Algorithms</strong>.</li>
+        <li>🎀 Working with <strong>Deep Learning, NLP, and Computer Vision</strong>.</li>
+        <li>✨ Building scalable solutions with <strong>Python, Django, and real-time applications</strong>.</li>
+        <li>🌸 Currently exploring <strong>Advanced ML Algorithms & Generative AI</strong>.</li>
         <li>🤝 Open to collaborations on <strong>AI, ML, and Web projects</strong>.</li>
-        <li>⚡ Fun Fact: I'm always eager to dive into complex datasets and turn them into actionable insights!</li>
+        <li>💫 Fun Fact: I'm always eager to dive into complex datasets and turn them into actionable insights!</li>
       </ul>
     </td>
     <td valign="top" width="40%" align="center">
-      <img src="assets/ai_robot.jpg" width="250" alt="AI Robot" />
+      <img src="assets/girly_ai_robot.jpg" width="250" alt="Cute AI Robot" style="border-radius:15px;" />
     </td>
   </tr>
 </table>
@@ -57,12 +57,12 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/Kushu-Shukla/RAG_Sanskrit_Kushu-Shukla">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kushu-Shukla&amp;repo=RAG_Sanskrit_Kushu-Shukla&amp;theme=dracula" alt="RAG Sanskrit Repo" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kushu-Shukla&amp;repo=RAG_Sanskrit_Kushu-Shukla&amp;bg_color=fff0f5&amp;title_color=ff1493&amp;text_color=555555&amp;icon_color=ff69b4&amp;border_color=ffb6c1" alt="RAG Sanskrit Repo" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/Kushu-Shukla/Classmate-name-and-mobile-number">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kushu-Shukla&amp;repo=Classmate-name-and-mobile-number&amp;theme=dracula" alt="Classmate App Repo" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kushu-Shukla&amp;repo=Classmate-name-and-mobile-number&amp;bg_color=fff0f5&amp;title_color=ff1493&amp;text_color=555555&amp;icon_color=ff69b4&amp;border_color=ffb6c1" alt="Classmate App Repo" />
         </a>
       </td>
     </tr>
@@ -76,34 +76,34 @@
 <div align="center">
 
 **Languages**<br/>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/python-FF69B4?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/java-FFB6C1?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/c++-FF1493?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/javascript-DA70D6?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" />
 
 <br/>
 
 **Machine Learning & Data Science**<br/>
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&amp;logo=TensorFlow&amp;logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="Scikit-learn" />
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="Numpy" />
-<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/TensorFlow-FF69B4?style=for-the-badge&amp;logo=TensorFlow&amp;logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/scikit--learn-FFB6C1?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/pandas-FF1493?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/numpy-DA70D6?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="Numpy" />
+<img src="https://img.shields.io/badge/opencv-FF69B4?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />
 
 <br/>
 
 **Frameworks & Web**<br/>
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/django-FF69B4?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/flask-FFB6C1?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/html5-FF1493?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/css3-DA70D6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
 
 <br/>
 
 **Cloud & Tools**<br/>
-<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white" alt="Google Cloud" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GoogleCloud-FF69B4?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/git-FFB6C1?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/github-FF1493?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
 
 </div>
 
@@ -112,14 +112,14 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kushu-Shukla&amp;show_icons=true&amp;theme=dracula&amp;hide_border=true" alt="Kushu-Shukla's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushu-Shukla&amp;theme=dracula&amp;hide_border=true" alt="Kushu-Shukla's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kushu-Shukla&amp;show_icons=true&amp;hide_border=true&amp;bg_color=fff0f5&amp;title_color=ff1493&amp;text_color=555555&amp;icon_color=ff69b4" alt="Kushu-Shukla's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushu-Shukla&amp;hide_border=true&amp;background=fff0f5&amp;ring=ff69b4&amp;fire=ff1493&amp;currStreakLabel=ff1493&amp;currStreakNum=555555&amp;sideNums=555555&amp;sideLabels=555555&amp;dates=555555" alt="Kushu-Shukla's GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushu-Shukla&amp;layout=compact&amp;theme=dracula&amp;hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushu-Shukla&amp;layout=compact&amp;hide_border=true&amp;bg_color=fff0f5&amp;title_color=ff1493&amp;text_color=555555" alt="Top Languages" />
 </div>
 
 <br/>
@@ -133,5 +133,5 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:ffb6c1,100:ff1493&amp;height=100&amp;section=footer" />
 </p>
