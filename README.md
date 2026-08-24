@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=45&pause=1000&color=ff007f&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Kushu+Shukla+🚀" alt="Hi there, I'm Kushu Shukla 🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&pause=1000&color=ff007f&center=true&vCenter=true&width=800&lines=Hi%20there,%20I%27m%20Kushu%20Shukla%20%F0%9F%9A%80" alt="✨ 𝓗𝓲 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 𝓚𝓾𝓼𝓱𝓾 𝓢𝓱𝓾𝓴𝓵𝓪 🚀 ✨" />
 </h1>
 
 <p align="center">
