@@ -2,7 +2,9 @@
   <img src="assets/girly_cyberpunk_banner.jpg" width="100%" alt="Cyberpunk Setup Banner" />
 </div>
 
-<h1 align="center">Hi there, I'm Kushu Shukla 🚀</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=45&pause=1000&color=ff007f&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Kushu+Shukla+🚀" alt="Hi there, I'm Kushu Shukla 🚀" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kushu-Shukla&amp;label=Profile%20Views&amp;color=00e5ff&amp;style=flat" alt="Profile Views" />
