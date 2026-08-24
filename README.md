@@ -1,20 +1,92 @@
-# Hi there, I'm Kushu Shukla 👋  
-## About Me
-I enjoy coding, learning new technologies, and building projects.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Kushu%20Shukla&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Machine%20Learning%20Engineer%20|%20AI%20Enthusiast&descAlignY=55&descAlign=62" />
+</div>
 
+<h1 align="center">Hi there, I'm Kushu Shukla 👋</h1>
 
-🎓 **B.Tech 4th Year Student (CSE - AIML)**  
-💡 Passionate about **Artificial Intelligence, Machine Learning, and Web Development**  
-🚀 Love building **scalable solutions** with Python, Django, and real-time applications  
-🌱 Currently learning ** DSA, and ML algorithms**  
-🤝 Open to **collaborations** on AI, ML, and Web projects  
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Deep+Learning+%26+NLP;Computer+Vision+Enthusiast;Building+Scalable+AI+Solutions" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Kushu-Shukla" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
-- **Languages**: Python, Java, C++ ,Javascript 
-- **Frameworks**: Django, Flask  ,scikit-Learn
-- **Machine Learning**: TensorFlow, Scikit-learn, Pandas, NumPy  
-- **Cloud**: Google Cloud  
-- **Databases**: MySQL, Firebase, MongoDB
-- **Others**: Git, GitHub, REST APIs  
+### 👩🏻‍💻 About Me
+
+I am a **B.Tech 4th Year Student (CSE - AIML)** who enjoys coding, exploring new technologies, and building intelligent projects.
+
+- 🔭 Working with **Deep Learning, NLP, and Computer Vision**.
+- 🚀 Building scalable solutions with **Python, Django, and real-time applications**.
+- 🌱 Currently learning and mastering **DSA and Advanced ML Algorithms**.
+- 🤝 Open to collaborations on **AI, ML, and Web projects**.
+- ⚡ Fun Fact: I'm always eager to dive into complex datasets and turn them into actionable insights!
+
+---
+
+### 🛠️ Technical Arsenal
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+
+<br/>
+
+**Machine Learning & Data Science**<br/>
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
+<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+
+<br/>
+
+**Frameworks & Web**<br/>
+<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
+<br/>
+
+**Cloud & Tools**<br/>
+<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kushu-Shukla&show_icons=true&theme=dracula&hide_border=true" alt="Kushu-Shukla's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushu-Shukla&theme=dracula&hide_border=true" alt="Kushu-Shukla's GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushu-Shukla&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=footer" />
+</p>
