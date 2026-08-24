@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/colorful_banner.jpg" width="100%" alt="Cyberpunk Setup Banner" />
+  <img src="assets/girly_cyberpunk_banner.jpg" width="100%" alt="Cyberpunk Setup Banner" />
 </div>
 
 <h1 align="center">Hi there, I'm Kushu Shukla 🚀</h1>
@@ -108,6 +108,16 @@
 
 ---
 
+### 🏆 GitHub Achievements
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Kushu-Shukla&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
+
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -119,16 +129,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushu-Shukla&amp;layout=compact&amp;theme=radical&amp;hide_border=true" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kushu-Shukla/Kushu-Shukla/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kushu-Shukla/Kushu-Shukla/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kushu-Shukla/Kushu-Shukla/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 <p align="center">
