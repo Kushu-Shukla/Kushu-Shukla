@@ -5,6 +5,10 @@
 <h1 align="center">Hi there, I'm Kushu Shukla 👋</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kushu-Shukla&amp;label=Profile%20Views&amp;color=BD93F9&amp;style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;pause=1000&amp;color=BD93F9&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Machine+Learning+Engineer;Deep+Learning+%26+NLP;Computer+Vision+Enthusiast;Building+Scalable+AI+Solutions" alt="Typing SVG" />
   </a>
@@ -43,6 +47,27 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 🏆 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/Kushu-Shukla/RAG_Sanskrit_Kushu-Shukla">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kushu-Shukla&amp;repo=RAG_Sanskrit_Kushu-Shukla&amp;theme=dracula" alt="RAG Sanskrit Repo" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Kushu-Shukla/Classmate-name-and-mobile-number">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kushu-Shukla&amp;repo=Classmate-name-and-mobile-number&amp;theme=dracula" alt="Classmate App Repo" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -95,6 +120,16 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushu-Shukla&amp;layout=compact&amp;theme=dracula&amp;hide_border=true" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kushu-Shukla/Kushu-Shukla/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kushu-Shukla/Kushu-Shukla/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kushu-Shukla/Kushu-Shukla/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <p align="center">
