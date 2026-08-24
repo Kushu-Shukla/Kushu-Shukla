@@ -83,25 +83,32 @@
     <td valign="top" width="60%">
       <b>Languages</b><br/>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python" />
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
       <br/><br/>
-      <b>Machine Learning & Data Science</b><br/>
-      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&amp;logo=TensorFlow&amp;logoColor=white" alt="TensorFlow" />
+      <b>Machine Learning & AI</b><br/>
       <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="Scikit-learn" />
+      <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&amp;logo=Keras&amp;logoColor=white" alt="Keras" />
+      <img src="https://img.shields.io/badge/NLTK-154f5b?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="NLTK" />
+      <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&amp;logo=chainlink&amp;logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/FAISS-000000?style=for-the-badge&amp;logo=meta&amp;logoColor=white" alt="FAISS" />
       <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
       <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="Numpy" />
-      <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />
       <br/><br/>
       <b>Frameworks & Web</b><br/>
       <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" />
       <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" />
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap" />
       <br/><br/>
-      <b>Cloud & Tools</b><br/>
-      <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white" alt="Google Cloud" />
+      <b>Tools & Platforms</b><br/>
+      <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&amp;logo=googlecolab&amp;logoColor=white" alt="Google Colab" />
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" alt="Oracle Cloud" />
+      <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&amp;logo=sap&amp;logoColor=white" alt="SAP" />
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
     </td>
